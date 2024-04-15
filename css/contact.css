@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+.top-bar{
+font-family: "Poppins", sans-serif;
+font-size: 15px;
+box-sizing: border-box;
+width: 100%;
+min-height: 50px;
+color: #BFBFBF;
+border-bottom: 1px #DCD5D5 solid;
+line-height: 50px;
+top: 0;
+display: flex;
+justify-content: space-around;
+align-items: center;	
+}
